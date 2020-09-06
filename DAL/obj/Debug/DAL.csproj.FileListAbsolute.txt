@@ -1,0 +1,44 @@
+C:\Users\VanAnh\Desktop\BatDongSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\VanAnh\Desktop\BatDongSan\DAL\bin\Debug\DAL.dll
+C:\Users\VanAnh\Desktop\BatDongSan\DAL\bin\Debug\DAL.pdb
+C:\Users\VanAnh\Desktop\BatDongSan\DAL\bin\Debug\DTO.dll
+C:\Users\VanAnh\Desktop\BatDongSan\DAL\bin\Debug\DTO.pdb
+C:\Users\VanAnh\Desktop\BatDongSan\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\VanAnh\Desktop\BatDongSan\DAL\obj\Debug\DAL.dll
+C:\Users\VanAnh\Desktop\BatDongSan\DAL\obj\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\bin\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\bin\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\bin\Debug\DTO.dll
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\bin\Debug\DTO.pdb
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\obj\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\DAL\obj\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\bin\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\bin\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\bin\Debug\DTO.dll
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\bin\Debug\DTO.pdb
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\obj\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\DAL\obj\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\bin\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\bin\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\bin\Debug\DTO.dll
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\bin\Debug\DTO.pdb
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\obj\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\lay lai\DAL\obj\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\bin\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\bin\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\bin\Debug\DTO.dll
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\bin\Debug\DTO.pdb
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\obj\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\obj\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

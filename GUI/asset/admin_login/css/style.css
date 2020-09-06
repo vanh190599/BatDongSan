@@ -1,0 +1,28 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Nunito', sans-serif
+}
+.wrapper{
+	height: 1000px;
+	background: #efefef;
+}
+.header{
+	height: 60px;
+	background: #0074e4;
+}
+.box{
+	width: 650px;
+	height: 350px;
+	border: 1px solid #dddddd;
+	margin: auto;
+	background: white;
+}
+.title{
+	color: #444444;
+	padding: 10px;
+}
+.header img{
+	margin-top: 10px;
+	margin-left: 350px
+}

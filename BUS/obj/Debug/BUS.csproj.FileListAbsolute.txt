@@ -1,0 +1,54 @@
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\bin\Debug\BUS.dll
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\bin\Debug\BUS.pdb
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\obj\Debug\BUS.dll
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\obj\Debug\BUS.pdb
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\bin\Debug\DAL.dll
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\bin\Debug\DTO.dll
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\bin\Debug\DAL.pdb
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\bin\Debug\DTO.pdb
+C:\Users\VanAnh\Desktop\BatDongSan\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\bin\Debug\BUS.dll
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\bin\Debug\BUS.pdb
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\bin\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\bin\Debug\DTO.dll
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\bin\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\bin\Debug\DTO.pdb
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\obj\Debug\BUS.dll
+C:\Users\LaptopAZ.vn\Desktop\BatDongSan\BUS\obj\Debug\BUS.pdb
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\bin\Debug\BUS.dll
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\bin\Debug\BUS.pdb
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\bin\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\bin\Debug\DTO.dll
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\bin\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\bin\Debug\DTO.pdb
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\obj\Debug\BUS.dll
+C:\Users\LaptopAZ.vn\Desktop\test\BatDongSan\BUS\obj\Debug\BUS.pdb
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\obj\Debug\BUS.dll
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\obj\Debug\BUS.pdb
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\bin\Debug\BUS.dll
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\bin\Debug\BUS.pdb
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\bin\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\bin\Debug\DTO.dll
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\bin\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\bin\Debug\DTO.pdb
+C:\Users\LaptopAZ.vn\Desktop\lay lai\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\obj\Debug\BUS.dll
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\obj\Debug\BUS.pdb
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\bin\Debug\BUS.dll
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\bin\Debug\BUS.pdb
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\bin\Debug\DAL.dll
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\bin\Debug\DTO.dll
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\bin\Debug\DAL.pdb
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\bin\Debug\DTO.pdb
+C:\Users\LaptopAZ.vn\Desktop\Ghep code\BatDongSan\BUS\obj\Debug\BUS.csproj.CopyComplete

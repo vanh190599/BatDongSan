@@ -1,0 +1,547 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout-2.master.cs" Inherits="GiaoDien.FRONTEND.Layout_2" %>
+
+<!DOCTYPE html>
+
+<html>
+    <head runat="server">
+        <title></title>
+        <asp:ContentPlaceHolder ID="head" runat="server"> </asp:ContentPlaceHolder>
+    </head>
+    <body>
+        <form id="form1" runat="server">
+            <div>
+                <head>
+                    <link href="../assets/frontend/front/css/bootstrap.min.css" rel="stylesheet" />
+                    <link href="../assets/frontend/front/css/owl.carousel.min.css" rel="stylesheet" />
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+                    <link rel="stylesheet" href="../assets/frontend/clone/document_home/filestatic.ver202008240956.msvbds.FrontEnd.min.css" />
+                    <link rel="stylesheet" href="../assets/frontend/clone/document_home/filestatic.ver202008240956.msvbds.home.min.css" />
+                    <script src="../assets/frontend/clone/document_home/f(1).txt"></script>
+
+                   
+                    <script type="text/javascript" src="../assets/frontend/clone/document_home/w"></script>
+                    <style media="print" class="jx_ui_StyleSheet" __jx__id="___$_2" type="text/css">
+                        .zopim {
+                            display: none !important;
+                        }
+                    </style>
+                </head>
+                <body class="bg-site">
+                    <div
+                        class="zopim"
+                        __jx__id="___$_11 ___$_11"
+                        data-test-id="ChatWidgetButton"
+                        style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px; background: transparent; overflow: hidden; position: fixed; z-index: 16000002; height: 30px; right: 10px; bottom: 0px;"
+                    >
+                        <iframe
+                            frameborder="0"
+                            style="
+                                background-color: transparent;
+                                vertical-align: text-bottom;
+                                position: relative;
+                                width: 100%;
+                                height: 100%;
+                                min-width: 100%;
+                                min-height: 100%;
+                                max-width: 100%;
+                                max-height: 100%;
+                                margin: 0px;
+                                overflow: hidden;
+                                display: block;
+                            "
+                            src="../assets/frontend/clone/document_home/saved_resource.html"
+                            data-test-id="ChatWidgetButton-iframe"
+                            title="Zendesk Chat widget button"
+                        ></iframe>
+                    </div>
+                    <div
+                        class="zopim"
+                        __jx__id="___$_4 ___$_4"
+                        data-test-id="ChatWidgetWindow"
+                        style="
+                            margin-top: 0px;
+                            margin-right: 0px;
+                            margin-bottom: 0px;
+                            padding: 0px;
+                            border: 0px;
+                            background: transparent;
+                            overflow: hidden;
+                            position: fixed;
+                            z-index: 16000001;
+                            right: 10px;
+                            bottom: 0px;
+                            border-top-left-radius: 5px;
+                            border-top-right-radius: 5px;
+                            display: none;
+                            box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 3px 2px;
+                        "
+                    >
+                        <iframe
+                            frameborder="0"
+                            style="
+                                background-color: transparent;
+                                vertical-align: text-bottom;
+                                position: relative;
+                                width: 100%;
+                                height: 100%;
+                                min-width: 100%;
+                                min-height: 100%;
+                                max-width: 100%;
+                                max-height: 100%;
+                                margin: 0px;
+                                overflow: hidden;
+                                display: block;
+                            "
+                            src="../assets/frontend/clone/document_home/saved_resource(1).html"
+                            data-test-id="ChatWidgetWindow-iframe"
+                            title="Zendesk Chat widget window"
+                        ></iframe>
+                    </div>
+                    <!-- Google Tag Manager (noscript) -->
+                    <noscript>
+                        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMVJT5G" height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+                    </noscript>
+                    <!-- End Google Tag Manager (noscript) -->
+                    <div class="form-content">
+                        <div class="adPosition" positioncode="BANNER_POSITION_BACKGROUND" style=""></div>
+                        <script type="text/javascript">
+                            var bannerContext = { CateId: 0, PageId: 189, CityCode: null, DistrictId: null, CurrentPage: 189 };
+                        </script>
+                        <div
+                            id="staticDomain"
+                            statsdomain="https://statistic.batdongsan.com.vn"
+                            data-fileimg="https://file4.batdongsan.com.vn"
+                            data-web="https://batdongsan.com.vn"
+                            data-msvrouter="/microservice-architecture-router"
+                            data-msvrouter-personal="/microservice-architecture-router-personal"
+                            data-cssserver="https://staticfile.batdongsan.com.vn"
+                            data-oldsystem="https://batdongsan.com.vn"
+                            data-content="https://batdongsan.com.vn"
+                            data-domainorigin="batdongsan.com.vn"
+                            class="hide"
+                        ></div>
+                        <div id="addonImage" addon-image="https://staticfile.batdongsan.com.vn/images/no-image.png"></div>
+                        <div id="SiteLeft" class="banner-left">
+                            <div class="container-default">
+                                <div>
+                                    <div id="ban_wide_left" class="ban_wide_scroll" style="display: block; top: 146px; position: absolute; left: 4.5px; bottom: inherit;">
+                                        <div class="adPosition" positioncode="BANNER_POSITION_WIDE_LEFT" style="margin-bottom: 0px;"></div>
+                                        <script type="text/javascript">
+                                            var bannerContext = { CateId: 0, PageId: 189, CityCode: null, DistrictId: null, CurrentPage: 189 };
+                                        </script>
+                                    </div>
+                                    <div id="ban_left" class="ban_scroll" style="display: block; top: 146px; position: absolute; left: 44.5px; bottom: inherit;">
+                                        <div class="adPosition" positioncode="BANNER_POSITION_LEFT" style="margin-bottom: 0px;"></div>
+                                        <script type="text/javascript">
+                                            var bannerContext = { CateId: 0, PageId: 189, CityCode: null, DistrictId: null, CurrentPage: 189 };
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <header class="full-menu">
+                            <div class="homemain">
+                                <div class="naga" id="naga">
+                                    <a href="javascript:void(0)" id="nav_back" rel="nofollow" title="Danh mục" class="div-panel st-panel fleft">
+                                        <span class="img-naga-l">
+                                            <img src="../assets/frontend/clone/document_home/ic_caret_left_1.svg" alt="back" />
+                                        </span>
+                                    </a>
+                                    <div class="text-center header-logo">
+                                        <a href="#" title="Nhà đất" rel="nofollow">
+                                            <img
+                                                src="../assets/frontend/clone/document_home/logo_wap1.svg"
+                                                onerror="this.src=&#39;https://staticfile.batdongsan.com.vn/images/newhome/logo-wap.png&#39;"
+                                                class="logo-wap"
+                                                alt="logo batdongsan.com.vn"
+                                                title="Batdongsan.com.vn"
+                                            />
+                                        </a>
+                                    </div>
+                                    <a href="javascript:void(0)" id="nav_list" rel="nofollow" title="Danh mục" class="div-panel st-panel fright in">
+                                        <span class="img-naga-r">
+                                            <img src="../assets/frontend/clone/document_home/ic_hamburger_menu_1.svg" alt="menu" />
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="top-search">
+                                <div class="homemain home-search">
+                                    <div class="search-input-wrap"></div>
+                                </div>
+                            </div>
+                            <div class="menu-bar pushmenu pushmenu-right">
+                                <div class="control-menu">
+                                    <div id="divUserStt" class="clearfix">
+                                        <div class="join-group">
+                                            <span id="TenDangNhap" class="font-weight-bold" >
+                                                   <%--<a href="https://www.batdongsan.com.vn/#" rel="nofollow" id="kct_login">Đăng nhập</a>--%>
+                                            </span>
+                                            <span>
+                                                <asp:Button CssClass="btn btn-primary text-white dangnhap1 " Text="Đăng nhập"  ID="btnDangNhap" runat="server" OnClick="btnDangNhap_Click" />
+                                                <%--<a href="https://www.batdongsan.com.vn/#" rel="nofollow" id="kct_login">Đăng nhập</a>--%>
+                                            </span>
+                                            <span>
+                                                <asp:Button CssClass="btn btn-primary text-white dangxuat " Text="Đăng Xuất"  ID="DangXuat" runat="server" OnClick="DangXuat_Click"  />
+                                                <%--<a href="https://www.batdongsan.com.vn/#" rel="nofollow" id="kct_login">Đăng nhập</a>--%>
+                                            </span>
+                                            <span class="line">|</span>
+                                            <span>
+                                                <asp:Label ID="ten" Text="" runat="server" />
+                                                <asp:Button CssClass="btn btn-primary text-white dangki" Text="Đăng ký" ID="btnDangKi"  runat="server" OnClick="btnDangKi_Click" />
+                                                <%--<a href="https://www.batdongsan.com.vn/#" rel="nofollow" id="kct_username">Đăng ký</a>--%>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div id="Header_UserControl_divPostProduct">
+                                        <asp:Button CssClass="btn btn-primary text-white dangtin" Text="Đăng tin" ID="btnDangTin"  runat="server" OnClick="btnDangTin_Click"/>
+                                        <%--<a href="https://www.batdongsan.com.vn/dang-tin-rao-vat-ban-nha-dat" id="linkPostProduct" class="btn-border-grey">Đăng tin</a>--%>
+                                    </div>
+                                </div>
+                                <div class="drop-menu">
+                                    <div class="left-menu">
+                                        <h1>
+                                            <a href="Home.aspx" rel="nofollow">
+                                                <img
+                                                    src="../assets/frontend/clone/document_home/ic_logo_2.svg"
+                                                    ignore-lazy-loading=""
+                                                    noloaderror="true"
+                                                    onerror="this.src=&#39;https://staticfile.batdongsan.com.vn/images/icons/ic_logo_2.png&#39;"
+                                                    alt="Kênh thông tin mua bán, cho thuê nhà đất số 1"
+                                                    title="Batdongsan.com.vn"
+                                                />
+                                            </a>
+                                            <span class="visual-hidden">Batdongsan.com.vn</span>
+                                        </h1>
+                                    </div>
+                                    <div class="right-menu">
+                                        <!--Header menu-->
+                                        <div class="home-header-menu">
+                                            <ul class="dropdown-navigative-menu">
+                                                <li class="lv0 tablet active hover">
+                                                    <a href="Home.aspx">
+                                                        <span class="icon"><img src="../assets/frontend/clone/document_home/ic_house.png" /></span><span class="text">Trang chủ</span>
+                                                    </a>
+                                                </li>
+                                                <li class="lv0">
+                                                    <a href="javascript:void(0)" class="haslink">
+                                                        <span class="icon"><img src="../assets/frontend/clone/document_home/ic_for_sale.svg" /></span><span class="text">Nhà đất bán</span>
+                                                    </a>
+                                                    <div class="arrrow"></div>
+                                                    <ul>
+                                                        <asp:Repeater ID ="DanhMucNhaDat" runat="server">
+                                                            <ItemTemplate>
+                                                                <li class="lv1"><a href="DanhMucNhaDat.aspx?id=<%# Eval("Id") %>" class="haslink"> <%# Eval("TenDanhMuc") %> </a></li>
+                                                            </ItemTemplate>
+                                                        </asp:Repeater>
+                                                    </ul>
+                                                </li>
+
+
+                                                <%--Giang: Du An--%>
+                                                <li class="lv0">
+                                                    <a href="javascript:void(0)" class="haslink">
+                                                        <span class="icon"><img src="../assets/frontend/clone/document_home/ic_project.svg" /></span><span class="text">Dự án</span>
+                                                    </a>
+                                                    <div class="arrrow"></div>
+                                                    <ul>
+                                                        <asp:Repeater ID ="DanhMucDuAn" runat="server">
+                                                            <ItemTemplate>
+                                                                <li class="lv1"><a href="DanhMucDuAn.aspx?id=<%# Eval("Id") %>" class="haslink"> <%# Eval("TenDanhMuc") %> </a></li>
+                                                            </ItemTemplate>
+                                                        </asp:Repeater>
+                                                    </ul>
+                                                </li>
+
+                                               
+                                                <li class="lv0">
+                                                   <a href="javascript:void(0)" class="haslink">
+                                                        <span class="icon"><img src="../assets/frontend/clone/document_home/ic_for_sale.svg" /></span><span class="text">Tin tức</span>
+                                                    </a>
+                                                    <div class="arrrow"></div>
+                                                    <ul>
+                                                        <asp:Repeater ID ="DanhMucTinTuc" runat="server">
+                                                            <ItemTemplate>
+                                                                <li class="lv1"><a href="DanhMucTinTuc.aspx?id=<%# Eval("Id") %>" class="haslink"> <%# Eval("TenDanhMuc") %> </a></li>
+                                                            </ItemTemplate>
+                                                        </asp:Repeater>
+                                                    </ul>
+                                                </li>
+
+                                                <%--Cong: Noi ngoai that--%>
+                                                <li class="lv0">
+                                                    <a href="javascript:void(0)" class="haslink">
+                                                        <span class="icon"><img src="../assets/frontend/clone/document_home/ic_for_sale.svg" /></span><span class="text">Nội thất - Ngoại thất</span>
+                                                    </a>
+                                                    <div class="arrrow"></div>
+                                                    <ul>
+                                                        <asp:Repeater ID ="DanhMucNoiNgoaiThat" runat="server">
+                                                            <ItemTemplate>
+                                                                <li class="lv1"><a href="DanhMucNoiNgoaiThat.aspx?id=<%# Eval("Id") %>" class="haslink"> <%# Eval("tenDanhMuc") %> </a></li>
+                                                            </ItemTemplate>
+                                                        </asp:Repeater>
+                                                    </ul>
+                                                </li><%--end Noi ngoai that--%>
+
+                                                 <%--Cong: Noi ngoai that--%>
+                                                <li class="lv0">
+                                                    <a href="covid19.aspx" class="haslink">
+                                                        <span class="icon"><img src="../assets/frontend/clone/document_home/ic_for_sale.svg" /></span><span class="text">Tình hình Covid-19</span>
+                                                    </a>                                                                                          
+                                                </li><%--end Noi ngoai that--%>
+
+                                                <li class="lv0 bg_menu zompchat"><a href="javascript:void(0);" rel="nofollow" title="Trò chuyện với chúng tôi">Trò chuyện với chúng tôi</a></li>
+                                            </ul>
+                                            <div class="header-logout hidden"><a href="javascript:void(0);" onclick="LogOut()" rel="nofollow">Đăng xuất</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="clear">&nbsp;</div>
+                                </div>
+                            </div>
+                            <div class="bg-pushmenu"></div>
+                        </header>
+
+                        <!-- Banner & search tool-->
+                        <div class="new-home-2020">
+                            
+
+                            <!-- Cac control o giua-->
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"> 
+
+                            </asp:ContentPlaceHolder>
+
+                        </div>
+                        
+
+                        <div class="clear"></div>
+
+                        <div id="SiteRight" class="banner-right clearfix">
+                            <div class="container-default">
+                                <div>
+                                    <div id="ban_wide_right" class="ban_wide_scroll" style="display: block; top: 146px; position: absolute; right: 4.5px; bottom: inherit;">
+                                        <div class="adPosition" positioncode="BANNER_POSITION_WIDE_RIGHT" style="margin-bottom: 0px;"></div>
+                                        <script type="text/javascript">
+                                            var bannerContext = { CateId: 0, PageId: 189, CityCode: null, DistrictId: null, CurrentPage: 189 };
+                                        </script>
+                                    </div>
+                                    <div id="ban_right" class="ban_scroll" style="display: block; top: 146px; position: absolute; right: 44.5px; bottom: inherit;">
+                                        <div class="adPosition" positioncode="BANNER_POSITION_RIGHT" style="margin-bottom: 0px;"></div>
+                                        <script type="text/javascript">
+                                            var bannerContext = { CateId: 0, PageId: 189, CityCode: null, DistrictId: null, CurrentPage: 189 };
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <footer>
+                            <div class="home-small">
+                             
+                                <div class="footer-row list-branch">
+
+                                  
+                                 
+                                </div>
+                                <div class="footer-infomation">
+                                    <div class="footer-info-col1">
+                                        Giấy ĐKKD số 0104630479 do Sở KHĐT TP Hà Nội cấp lần đầu ngày 02/06/2010<br />
+                                        Giấy phép ICP số 2399/GP-STTTT do Sở TTTT Hà Nội cấp ngày 04/09/2014<br />
+                                        Giấy phép GH ICP số 3832/GP-TTĐT do Sở TTTT Hà Nội cấp ngày 08/08/2019
+                                    </div>
+                                    <div class="footer-info-col2">
+                                        Chịu trách nhiệm nội dung GP ICP: Bà Đặng Thị Hường<br />
+                                        Chịu trách nhiệm sàn GDTMĐT: Ông Vũ Triệu Vương<br />
+                                        (Robert Vuong Trieu Vu)<br />
+                                        Quy chế, quy định giao dịch có hiệu lực từ 23/02/2020
+                                    </div>
+                                    <div class="footer-info-col3">
+                                        Copyright © 2007 - 2020 Batdongsan.com.vn<br />
+                                        Ghi rõ nguồn "Batdongsan.com.vn" khi phát hành lại thông tin từ website này.
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </footer>
+                        <div class="modal fade" id="dialogPopup" role="dialog">
+                            <div class="nomodal"></div>
+                            <div class="modal-dialog" style="top: 293px !important; left: 674.5px !important; top: 293px !important; left: 674.5px !important;">
+                                <div class="modal-content"></div>
+                            </div>
+                        </div>
+                        <div class="adPosition" positioncode="BANNER_POSITION_FLOADING_BOTTOM" style=""></div>
+                        <script type="text/javascript">
+                            var bannerContext = { CateId: 0, PageId: 189, CityCode: null, DistrictId: null, CurrentPage: 189 };
+                        </script>
+                        <div class="hide" id="domainUserInfo" data-value="https://batdongsan.com.vn"></div>
+                        <div class="hide" id="domainWeb" data-value="https://batdongsan.com.vn"></div>
+                        <div class="hide" id="getBannerUrl" data-value="/microservice-architecture-router/Systems/Banner/GetBanners"></div>
+                        <div class="hide" id="domainStatistic" data-value="https://statistic.batdongsan.com.vn"></div>
+                        <div class="popup-content"></div>
+                        <div class="lg-backdrop in" id="dialog-backdrop" style="transition-duration: 150ms; display: none;" onclick="account.CloseAccountPopup()"></div>
+                        <div id="gototop" title="Go to top" style="display: none;"></div>
+                    </div>
+                    <script src="../assets/frontend/clone/document_home/filestatic.ver202008240956.msvbds.FrontEnd.Common.Home.min.js.tải xuống"></script>
+                    <script src="https://www.batdongsan.com.vn/"></script>
+                    <!--start BannerContext-->
+                    <script type="text/javascript">
+                        var __bannerContext = { PageId: 189, CateId: null, CityCode: null, DistrictId: null, CurrentPage: 1 };
+                    </script>
+                    <!--end BannerContext-->
+                    <!--Start of Zendesk Chat Script-->
+                    <script type="text/javascript">
+                        window.$zopim ||
+                            (function (d, s) {
+                                var z = ($zopim = function (c) {
+                                        z._.push(c);
+                                    }),
+                                    $ = (z.s = d.createElement(s)),
+                                    e = d.getElementsByTagName(s)[0];
+                                z.set = function (o) {
+                                    z.set._.push(o);
+                                };
+                                z._ = [];
+                                z.set._ = [];
+                                $.async = !0;
+                                $.setAttribute("charset", "utf-8");
+                                $.src = "https://v2.zopim.com/?6fJlcOXWwJofJZOzmeDIifb7bHGvvSte";
+                                z.t = +new Date();
+                                $.type = "text/javascript";
+                                e.parentNode.insertBefore($, e);
+                            })(document_home, "script");
+                    </script>
+                    <!--End of Zendesk Chat Script-->
+                    <script type="text/javascript">
+                        var newsLetterRegister = new newsLetterRegister.NewsLetterRegister();
+                        newsLetterRegister.InitializeLoad();
+
+                        var commentUser = new commentUser.CommentUser();
+                        commentUser.InitializeLoad();
+
+                        var paramAccount = {
+                            urlListLogin: "/Systems/Account/Login",
+                            urlListRegister: "/Systems/Account/Register",
+                            urlListForgetPass: "/Systems/Account/ForgetPassword",
+                            urlListCity: "/Contacts/CommonData/GetCityList",
+                            urlListDistrict: "/Contacts/CommonData/GetListDistrictByCity",
+                            urlListWard: "/Contacts/CommonData/GetWardList",
+                        };
+
+                        var account = new account.Content();
+                        account.Initialize(paramAccount);
+
+                        var footer = new footer.Footer();
+                        footer.Initialize();
+
+                        var menu = new menu.Menu();
+                        menu.Initialize();
+                    </script>
+                    <script async="" src="../assets/frontend/clone/document_home/ins.js.tải xuống"></script>
+                    <script src="../assets/frontend/clone/document_home/filestatic.ver202008240956.msvbds.jquery.tabslet.jscompress.js.tải xuống"></script>
+                    <script src="../assets/frontend/clone/document_home/filestatic.ver202008240956.msvbds.FrontEnd.Home.min.js.tải xuống"></script>
+                    <script type="text/javascript">
+                        (function callJQuery() {
+                            if (window.FrontEnd && window.FrontEnd.BannerViewerBinnova) {
+                                new window.FrontEnd.BannerViewerBinnova({});
+                            } else {
+                                setTimeout(callJQuery, 100);
+                            }
+                        })();
+                    </script>
+                    <script type="text/javascript">
+                        try {
+                            var script_imported = document_home.createElement("script");
+                            script_imported.src = "https://log.batdongsan.com.vn/js/bds/bds-msv-log.min.js?hv=2&dv=" + new Date().toJSON().slice(0, 10);
+                            if (document_home.body != null && document_home.body != undefined) {
+                                document_home.body.appendChild(script_imported);
+                            } else {
+                                document_home.head.appendChild(script_imported);
+                            }
+                        } catch (e) {}
+                    </script>
+                    <script src="../assets/frontend/clone/document_home/bds-msv-log.min.js.tải xuống"></script>
+                    <script type="text/javascript">
+                        document_home.addEventListener("DOMContentLoaded", function () {
+                            var lazyImages = [].slice.call(document_home.querySelectorAll("[src-lazy]"));
+                            window.countOfLazyImages = lazyImages.length;
+                            if ("IntersectionObserver" in window) {
+                                let lazyImageObserver = new IntersectionObserver(function (entries, observer) {
+                                    entries.forEach(function (entry) {
+                                        if (entry.isIntersecting) {
+                                            let lazyImage = entry.target;
+                                            if (lazyImage.attributes["src-lazy"]) {
+                                                lazyImage.src = lazyImage.attributes["src-lazy"].value;
+                                                lazyImage.removeAttribute("src-lazy");
+                                                lazyImageObserver.unobserve(lazyImage);
+                                            }
+                                        }
+                                    });
+                                });
+                                lazyImages.forEach(function (lazyImage, i) {
+                                    lazyImage.setAttribute("lazy-id", i);
+                                    lazyImageObserver.observe(lazyImage);
+                                });
+                                (function checkDuplicate() {
+                                    var countOfLazyElements = [].slice.call(document_home.querySelectorAll("[lazy-id]"));
+                                    if (countOfLazyElements.length > window.countOfLazyImages) {
+                                        var elements = [].slice.call(document_home.querySelectorAll("[src-lazy]"));
+                                        elements.forEach((element) => {
+                                            var lazyId = element.attributes["lazy-id"].value;
+                                            var lazyElements = [].slice.call(document_home.querySelectorAll(`[lazy-id="${lazyId}"]`));
+                                            if (lazyElements.length > 1) {
+                                                for (var i = 1; i < lazyElements.length; i++) {
+                                                    var lazyElement = lazyElements[i];
+                                                    lazyImageObserver.observe(lazyElement);
+                                                    lazyElement.setAttribute("lazy-id", window.countOfLazyImages);
+                                                    window.countOfLazyImages++;
+                                                }
+                                            }
+                                        });
+                                    }
+                                    setTimeout(checkDuplicate, 1000);
+                                })();
+                            } else {
+                                $("[src-lazy]").each(function () {
+                                    this.src = this.attributes["src-lazy"].value;
+                                    this.removeAttribute("src-lazy");
+                                });
+                            }
+                        });
+                    </script>
+                    <ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 10; top: 0px; left: 0px; display: none;"></ul>
+                    <iframe id="insider-worker" src="../assets/frontend/clone/document_home/worker-new.html" style="display: none;"></iframe>
+                    <script src="../assets/frontend/clone/document_home/ed.js.tải xuống"></script>
+                    <style
+                        id="ins-free-style"
+                        innerhtml="/* Change zindex of topbar */
+         .search-bar.fix{
+         z-index: 9999999999;
+         }"
+                    >
+                        /* Change zindex of topbar */
+                        .search-bar.fix {
+                            z-index: 9999999999;
+                        }
+
+
+
+                    </style>
+
+
+                    <%--lOGIN--%>
+                    <script src="../assets/frontend/front/js/jquery.js"></script>
+                    <script>  
+                        $(".dangxuat").hide();
+                        $(".dangki").show();
+                        var user_name = "<%= username %>";
+                        if (user_name !== "") {
+                            $(".dangnhap1").hide();
+                            $("#TenDangNhap").html(user_name);
+                            $(".dangxuat").show();
+                            $(".dangki").hide();
+                        }
+                    </script>
+                </body>
+            </div>
+        </form>
+    </body>
+</html>
